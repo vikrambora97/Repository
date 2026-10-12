@@ -1,1 +1,3 @@
-this is second file and I am practicing git and GitHub
+this is second file and I am practicing git and GitHub.
+
+This is again I am modifying this file just to practice it.
